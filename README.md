@@ -49,7 +49,7 @@ Ensure you have:
 ### Clone the Repository:
 git clone https://github.com/JohnnyIndexman/flexisafwk3.git
 
-cd ClothSalesProject
+cd week3
 
 ### Compile the Java Program:
 javac ClothSales.java Main.java
