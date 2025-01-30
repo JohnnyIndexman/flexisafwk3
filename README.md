@@ -41,12 +41,13 @@ Object-Oriented Programming (OOP)
 Ensure you have:
 
 ✅ Java Development Kit (JDK) installed
+
 ✅ A Java IDE (e.g., IntelliJ IDEA, VS Code, Eclipse) OR a text editor
 
 ## Steps to Run
 
-### Clone the Repository (if applicable):
-git clone https://github.com/your-username/ClothSalesProject.git
+### Clone the Repository:
+git clone https://github.com/JohnnyIndexman/flexisafwk3.git
 
 cd ClothSalesProject
 
